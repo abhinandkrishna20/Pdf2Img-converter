@@ -53,7 +53,9 @@ Conversion complete!
 
 ## Author
 
-Abhinand Krishna A
+[Abhinand Krishna A](https://www.linkedin.com/in/abhinandkrishna/)
 
-## License
 
+## 📖 License
+
+Rig is licensed under the Apache 2.0 License.
