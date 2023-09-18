@@ -58,4 +58,4 @@ Conversion complete!
 
 ## 📖 License
 
-Rig is licensed under the Apache 2.0 License.
+Rig is licensed under the MIT License.
