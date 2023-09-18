@@ -1,9 +1,4 @@
-# Pdf2Img-converter
-Certainly! Here's an example of the content you might include in a README file for the Python script provided earlier:
-
----
-
-# PDF to JPG Converter
+# PDF to Image Converter
 
 This Python script allows you to convert a PDF document into a series of JPG image files using the PyMuPDF library (also known as fitz).
 
