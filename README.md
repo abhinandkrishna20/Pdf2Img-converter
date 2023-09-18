@@ -58,4 +58,4 @@ Conversion complete!
 
 ## 📖 License
 
-Rig is licensed under the MIT License.
+Pdf2Img is licensed under the MIT License.
